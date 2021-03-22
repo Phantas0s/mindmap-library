@@ -15,6 +15,8 @@ I love making *detailed mindmaps* of everything I find interesting. Here's how i
 
 [![The Pragmatic Programmer](pragmatic_programmer.png)](./pragmatic_programmer.png)
 
+You'll find in this repository my free mindmap for The Pragmatic Programmer. You can clone everything and open `the_pragmatic_programmer.mm` with Freemind.
+
 Using mindmaps allows me to:
 
 * Easily review any piece of knowledge I want.
@@ -32,7 +34,8 @@ I use the open source software [Freemind](https://sourceforge.net/projects/freem
 
 I have mindmaps with hundred of nodes and Freemind never let me down.
 
-[Sponsoring me on Github](https://github.com/sponsors/Phantas0s) will give you access to all my mindmaps. I often create new ones update the old ones.
+
+[Sponsoring me on Github](https://github.com/sponsors/Phantas0s) will give you access to all my mindmaps. I often create new ones and update the old ones.
 
 ## Showcase
 
