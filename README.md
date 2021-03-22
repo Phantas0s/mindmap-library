@@ -34,8 +34,7 @@ I use the open source software [Freemind](https://sourceforge.net/projects/freem
 
 I have mindmaps with hundred of nodes and Freemind never let me down.
 
-
-[Sponsoring me on Github](https://github.com/sponsors/Phantas0s) will give you access to all my mindmaps. I often create new ones and update the old ones.
+[Sponsoring me on Github](https://github.com/sponsors/Phantas0s) will give you access to all my mindmaps. It's my way to thank you for supporting my work!
 
 ## Showcase
 
