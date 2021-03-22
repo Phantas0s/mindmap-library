@@ -3,7 +3,6 @@
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
 ![count mindmaps](https://img.shields.io/badge/total_mindmaps-184-blue)
-[![Github repo-size](https://img.shields.io/github/repo-size/Phantas0s/alexandria-library.svg?color=success&label=Library%20size)]()
 
 Reading is not enough for me: to learn, I need to make the knowledge my own. The goal?
 
@@ -12,7 +11,7 @@ Reading is not enough for me: to learn, I need to make the knowledge my own. The
 
 I love making *detailed mindmaps* of everything I find interesting. Here's how it looks like:
 
-[![The Pragmatic Programmer](the_pragmatic_programmer.png)]()
+[![The Pragmatic Programmer](the_pragmatic_programmer.png)](./the_pragmatic_programmer.png)
 
 Using mindmaps allows me to:
 
