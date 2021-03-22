@@ -4,6 +4,8 @@
 
 ![count mindmaps](https://img.shields.io/badge/total_mindmaps-184-blue)
 
+## What's That?
+
 Reading is not enough for me: to learn, I need to make the knowledge my own. The goal?
 
 * To remember it.
@@ -11,7 +13,7 @@ Reading is not enough for me: to learn, I need to make the knowledge my own. The
 
 I love making *detailed mindmaps* of everything I find interesting. Here's how it looks like:
 
-[![The Pragmatic Programmer](the_pragmatic_programmer.png)](./the_pragmatic_programmer.png)
+[![The Pragmatic Programmer](pragmatic_programmer.png)](./pragmatic_programmer.png)
 
 Using mindmaps allows me to:
 
@@ -28,11 +30,18 @@ I use the open source software [Freemind](https://sourceforge.net/projects/freem
 * The interface is keyboard-friendly.
 * The maps created are in plain text (XML). If you use Vim and the shell, you can search and filter everything you want.
 
-I've mindmaps with hundred of nodes and Freemind never let me down.
+I have mindmaps with hundred of nodes and Freemind never let me down.
 
-You can have access to all my mindmaps too if you sponsor me on Github. See [here for more information](https://github.com/sponsors/Phantas0s).
+[Sponsoring me on Github](https://github.com/sponsors/Phantas0s) will give you access to all my mindmaps. I often create new ones update the old ones.
 
-Here's the list of mindmaps (files with the extension ".mm"):
+## Showcase
+
+[![Vim the hard way](vim_hard_way.png)](./vim_hard_way.png)
+[![1000 true fans](1000_true_fans.png)](./1000_true_fans.png)
+
+## Complete List
+
+Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm` in the shell:
 
 ```bash
 .
