@@ -36,5 +36,331 @@ You can have access to all my mindmaps too if you sponsor me on Github. See [her
 Here's the list of mindmaps (files with the extension ".mm"):
 
 ```bash
+.
+├── business
+│   ├── 1000_true_fans.mm
+│   ├── 9_perfect_products_for_dev.mm
+│   ├── a_software_business_five_hours_a_week.mm
+│   ├── building_new_revenue_streams.mm
+│   ├── choosing_a_speciality.mm
+│   ├── creating_a_business_that_can_thrive_without_you.mm
+│   ├── ditching_hourly.mm
+│   ├── e-myth_revisited
+│   │   └── e_myth_revisited.mm
+│   ├── freelancing
+│   │   ├── better_freelance_business_in_2019.mm
+│   │   ├── book_yourself_solid.mm
+│   │   ├── firing_client.mm
+│   │   ├── fixed_bids_vs_hourly_hours.mm
+│   │   ├── freelance_-_wrong_question.mm
+│   │   ├── getting_started_with_freelancing.mm
+│   │   ├── how_to_attract_clients_without_doing_sell.mm
+│   │   ├── keeping_the_pipeline_full.mm
+│   │   ├── making_money_from_open_source.mm
+│   │   ├── positioning.mm
+│   │   ├── setting_your_rates.mm
+│   │   ├── starting_freelancing_as_an_employee.mm
+│   │   └── the_freelancer_primer.mm
+│   ├── getting_real.mm
+│   ├── hack_your_career.mm
+│   ├── how_to_brainstorm_great_project_ideas.mm
+│   ├── how_to_evaluate_your_startup_idea
+│   │   └── how_to_evaluate_startup_idea.mm
+│   ├── how_to_measure_anything
+│   │   ├── how_to_measure_anything.mm
+│   │   └── Resources
+│   ├── how_to_pick_a_niche_start_listening_to_other_people.mm
+│   ├── human_email_automation.mm
+│   ├── if_your_innovation_effort_isnt_working_look_at_who_on_the_team.mm
+│   ├── i_hate_mvp_so_do_your_customers
+│   │   └── i_hate_mvp_so_do_your_customers.mm
+│   ├── magic_the_gathering_twenty_years_twenty_lesson_learned.mm
+│   ├── marketing
+│   │   ├── 17_link_building_strategy.mm
+│   │   ├── 5_ways_you_can_make_money_with_your_personnal_brand.mm
+│   │   ├── content_marketing_strategies.mm
+│   │   ├── developing_linkbait_for_a_non_technical_audience.mm
+│   │   ├── _INFOGRAPHICS
+│   │   ├── keyword_difficulty.mm
+│   │   ├── perfect_about_page.mm
+│   │   ├── seo_moz.com.mm
+│   │   ├── strategic_seo_for_startups.mm
+│   │   └── what_is_lead_generation
+│   │       └── what_is_lead_generation.mm
+│   ├── marketing_mindset.mm
+│   ├── networking
+│   │   └── networking_for_people_who_hate_networking.mm
+│   ├── pros_and_cons_building_saas.mm
+│   ├── quick_dirty_guide_startup_brand.mm
+│   ├── rework.mm
+│   ├── setting_up_your_ecosystem.mm
+│   ├── _STUDIES
+│   ├── the_big_book_of_getting_people_to_link_to_you.mm
+│   ├── the_efficiencer.mm
+│   ├── theory_of_constraints
+│   │   └── theory_of_constraint_101.mm
+│   ├── the_trusted_advisor_follow_up.mm
+│   ├── the_trusted_advisor.mm
+│   ├── the_why_conversation.mm
+│   ├── tyranny_of_metrics.mm
+│   ├── what_i_learned_cofounding_dribble.mm
+│   └── work_less_get_more_done_analytics_for_maximizing_productivity.mm
+├── computing
+│   ├── api
+│   │   └── REST
+│   │       ├── annotated
+│   │       └── rest.mm
+│   ├── computer_science
+│   │   ├── 00_introduction
+│   │   │   └── uc_berkeley_cs10_2010
+│   │   │       ├── 08_concurency
+│   │   │       │   └── concurency.mm
+│   │   │       └── 13_applications_that_changed_the_world.mm
+│   │   ├── 01_programming
+│   │   │   └── sicp
+│   │   │       ├── berkeley_cs61a
+│   │   │       │   ├── above_line_view.mm
+│   │   │       │   ├── below_line_view.mm
+│   │   │       │   └── scheme_class_61A.mm
+│   │   │       └── book
+│   │   │           ├── order_of_growth
+│   │   │           └── sicp.mm
+│   │   ├── 04_mathematics
+│   │   │   ├── concrete_mathematics
+│   │   │   │   └── concrete_mathematics.mm
+│   │   │   ├── discrete_mathematics_and_its_application
+│   │   │   │   ├── discrete_mathematics_and_its_applications.mm
+│   │   │   │   └── solutions
+│   │   │   ├── discrete_math_you_need_to_know.mm
+│   │   │   └── mit_mathematics_for_computer_science
+│   │   │       └── mit_mathematics_for_computer_science.mm
+│   │   ├── 06_computer_networking
+│   │   │   └── Wireshark Labs
+│   │   │       └── Kurose_Ross_Wireshark_labs_7th_ed
+│   │   ├── oral_history_john_mc_carthy.mm
+│   │   └── power_abstraction_liskov.mm
+│   ├── database
+│   │   ├── how_does_a_relational_database_works.mm
+│   │   └── _INFOGRAPHICS
+│   ├── data_science
+│   │   └── data_warehouse.mm
+│   ├── design
+│   │   ├── ddd_quickly
+│   │   │   └── ddd.mm
+│   │   ├── design_composition_performance.mm
+│   │   └── the_most_important_design_guideline.mm
+│   ├── devops
+│   │   ├── 9_metrics_that_can_make_a_difference.mm
+│   │   ├── accelerate
+│   │   │   └── accelerate.mm
+│   │   └── _STUDIES
+│   ├── distributed_systems
+│   ├── game
+│   │   └── webgl_fundamentals
+│   │       └── webgl_fundamentals.mm
+│   ├── hardware
+│   ├── _INFOGRAPHICS
+│   │   └── vim
+│   │       └── cheatsheets
+│   ├── languages
+│   │   ├── bash
+│   │   │   └── _CHEATSHEETS
+│   │   ├── clojure
+│   │   │   ├── agility_robustness_spec
+│   │   │   │   └── agility_and_robustness_clojure_spec.mm
+│   │   │   ├── clojure_for_the_brave_and_true
+│   │   │   │   └── clojure_for_the_brave_and_true.mm
+│   │   │   └── modern_cljs.mm
+│   │   ├── golang
+│   │   │   ├── advanced_testing_with_go_by_mitchell_hashimoto.mm
+│   │   │   ├── concurency_in_go.mm
+│   │   │   ├── concurency_is_not_parallelism.mm
+│   │   │   ├── delve_talk_-_go_internal.mm
+│   │   │   ├── design_command_line_tool_people_love
+│   │   │   │   └── design_command_line_tool_people_love.mm
+│   │   │   ├── design_philosophie
+│   │   │   │   └── design_philosophie.mm
+│   │   │   ├── go_beautiful_package.mm
+│   │   │   ├── go_in_action.mm
+│   │   │   ├── go_scheduler
+│   │   │   │   └── go_scheduler.mm
+│   │   │   ├── introduction_to_interfaces
+│   │   │   │   └── introduction_to_interfaces.mm
+│   │   │   ├── language_mechanics
+│   │   │   │   └── language_mechanics.mm
+│   │   │   └── static_analysis_in_go.mm
+│   │   ├── lisp
+│   │   │   └── recursive_mc_carthy.mm
+│   │   └── php
+│   │       ├── marco_pivetta_doctrine_orm_good_practices_and_tricks.mm
+│   │       └── symfony_con_2016
+│   ├── misc
+│   │   ├── achieving_technical_excellence_in_your_software_teams
+│   │   │   └── achieving_technical_excellence_in_your_software_teams.mm
+│   │   ├── being_good_is_overrated.mm
+│   │   ├── building_highly_reliable_websites_for_small_companies.mm
+│   │   ├── dan_ingalls_oop.mm
+│   │   ├── dont_call_yourself_a_programmer_and_other_career_advice.mm
+│   │   ├── engineering_you.mm
+│   │   ├── fp_high_school_algebra
+│   │   ├── how_to_think_like_a_programmer.mm
+│   │   ├── implementing_a_strong_code_review_culture.mm
+│   │   ├── lean_code
+│   │   │   └── lean_code.mm
+│   │   ├── learn_to_impact_the_business_as_a_developer.mm
+│   │   ├── math_for_programmers
+│   │   │   └── math_for_programmer.mm
+│   │   ├── old_is_the_new_new.mm
+│   │   ├── on_abstraction.mm
+│   │   ├── programming_across_paradigms
+│   │   │   └── programming_across_paradigms.mm
+│   │   ├── requirement_example
+│   │   ├── secret_growing_your_engineering_carreer_if_you_don_t_want_to_manage.mm
+│   │   ├── simple_made_easy
+│   │   │   └── simple_made_easy.mm
+│   │   ├── taking_back_software_engineering
+│   │   │   └── taking_back_software_engineering.mm
+│   │   ├── the_pragmatic_programmer
+│   │   │   └── the_pragmatic_programmer.mm
+│   │   ├── things_that_matters.mm
+│   │   └── unicode_character_set
+│   │       └── unicode_character_set.mm
+│   ├── network
+│   │   └── graphql_grpc_or_rest
+│   │       └── graphql_grpc_or_rest.mm
+│   ├── _PAPERS
+│   │   ├── code_review
+│   │   ├── concurrency
+│   │   ├── inheritance
+│   │   │   └── _ANNOTED
+│   │   └── type
+│   │       └── abstract_data_type
+│   │           └── _ANNOTATED
+│   ├── shell
+│   │   ├── better_bashing_through_technology.mm
+│   │   ├── refactoring_in_bash_functions.mm
+│   │   ├── the_awk_programming_language.mm
+│   │   └── zsh.mm
+│   ├── _SLIDES
+│   ├── technical_interviewing_you_doing_it_wrong.mm
+│   └── vim
+│       ├── cutomizing_vim
+│       │   └── customizing_vim.mm
+│       ├── user_manual.mm
+│       └── vimscript
+│           └── vimscript_the_hard_way
+│               └── I_vimscript_the_hard_way.mm
+├── consultancy
+│   ├── becoming_software_consultant.mm
+│   ├── consultancy_for_developers.mm
+│   ├── consulting_skills_you_need_without_the_vague_platitudes.mm
+│   ├── how_to_become_a_management_consultant.mm
+│   ├── positioning_strategy_for_the_aspiring_consultant.mm
+│   ├── positioning_yourself_to_coworkers_as_a_stealth_consultant.mm
+│   ├── the_secret_of_consulting
+│   │   └── the_secret_of_consulting.mm
+│   ├── the_why_conversation.mm
+│   └── web_consultant_web_developer.mm
+├── design
+│   ├── color_theory.mm
+│   ├── _INFOGRAPHICS
+│   ├── photoshop_blend_modes.mm
+│   └── pixel_art_tutorial_complete_guide.mm
+├── economics
+│   └── freakonomics.mm
+├── finances
+│   └── investment.mm
+├── _githooks
+├── health
+│   └── _INFOGRAPHICS
+├── _IN_PROGRESS
+│   ├── epic_guide_bootstrapping_startup_by_yourself.mm
+│   ├── how_developers_can_make_money_with_open_source_projects.mm
+│   ├── implementing_domain_driven_design
+│   │   └── implementing_domain_driven_design.mm
+│   ├── introduction_to_computer_networking
+│   │   └── introduction_to_computer_networking.mm
+│   ├── magic_trick_of_testing.mm
+│   ├── my_blog_if_i_build_it_will_they_come.mm
+│   ├── regular_expression_cookbook.mm
+│   ├── the_element_of_style
+│   │   └── the_element_of_style.mm
+│   └── unicode_character_set.mm
+├── languages
+│   ├── Deutsch
+│   │   ├── dfe.mm
+│   │   ├── german.mm
+│   │   ├── infographics
+│   │   └── netzwerk_solutions
+│   └── English
+│       ├── infographics
+│       └── ommiting_that.mm
+├── management
+│   ├── okr_agile_stop_waterfall_goals
+│   │   └── okr_and_agile_stop_waterfall_goals.mm
+│   ├── patterns_of_effective_teams.mm
+│   └── studies
+├── mathematics
+│   ├── general_mathematics.mm
+│   └── introduction_to_mathematical_thinking
+│       └── introduction_to_mathematical_thinking.mm
+├── philosophy
+│   └── _INFOGRAPHICS
+├── photography
+│   ├── camera_sensors.mm
+│   ├── infographics
+│   └── photography_business_elia_locardi.mm
+├── productivity
+│   ├── action_mindmap_system
+│   ├── infographics
+│   └── productivity_not_time_management_but_attention_management.mm
+├── public_speaking
+│   └── infographics
+├── self_improvement_psychology
+│   ├── a_mind_for_numbers.mm
+│   ├── beyond_burnout_how_to_work_hard_and_enjoy_life.mm
+│   ├── how_to_be_successful.mm
+│   ├── how_to_win_friend_and_influence_people.mm
+│   ├── infographics
+│   ├── just_listen_how_to_reach_anyone.mm
+│   ├── laziness_does_not_exist.mm
+│   ├── memory_unlimited.mm
+│   ├── mental_models
+│   │   └── mental_models.mm
+│   ├── _PAPERS
+│   │   ├── burnout
+│   │   ├── cognitive_load_theory
+│   │   ├── feedback
+│   │   └── impostor_syndrome
+│   │       └── _ANNOTATED
+│   ├── psychology_of_focus.mm
+│   ├── the_willpower_instinct.mm
+│   ├── we_are_all_confident_idiots.mm
+│   └── zen_body_being.mm
+├── system
+│   └── introduction_to_system_thinking.mm
+├── teaching_learning
+│   ├── 10_lessons_mit_education.mm
+│   ├── create_or_sell_an_online_course.mm
+│   ├── frelancer_show_-_303_genesis_of_a_course.mm
+│   ├── _PAPERS
+│   ├── the_science_of_accelerated_learning.mm
+│   └── ultralearning.mm
+└── writing
+    ├── 11_reasons_people_bounce_from_your_blog_and_never_return.mm
+    ├── blogging
+    │   ├── blogging_guide.mm
+    │   ├── blog_topic_planning.mm
+    │   ├── great_blog_post.mm
+    │   ├── how_to_produce_killer_content.mm
+    │   ├── refreshing_your_blog_posts.mm
+    │   └── this_is_our_fist_post_and_other_title_you_should_not_publish.mm
+    ├── keys_to_great_writing
+    │   └── keys_to_great_writing.mm
+    ├── on_writing_well.mm
+    ├── _SLIDES
+    ├── write_to_express_not_to_impress.mm
+    └── writing_is_thinking_learning_to_write_with_confidence.mm
 
+140 directories, 184 files
 ```
