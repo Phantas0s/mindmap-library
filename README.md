@@ -117,6 +117,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── work_less_get_more_done_analytics_for_maximizing_productivity.mm
 ├── computing
 │   ├── api
+│   │   ├── how_to_design_good_api.mm
 │   │   └── REST
 │   │       ├── annotated
 │   │       └── rest.mm
@@ -135,6 +136,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   │       └── book
 │   │   │           ├── order_of_growth
 │   │   │           └── sicp.mm
+│   │   ├── 03_algorithm_data_structure
+│   │   │   └── algorithm_data_structure.mm
 │   │   ├── 04_mathematics
 │   │   │   ├── concrete_mathematics
 │   │   │   │   └── concrete_mathematics.mm
@@ -252,6 +255,9 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── the_awk_programming_language.mm
 │   │   └── zsh.mm
 │   ├── _SLIDES
+│   ├── soft_skills
+│   │   └── _PAPERS
+│   │       └── _ANNOTATED
 │   ├── technical_interviewing_you_doing_it_wrong.mm
 │   └── vim
 │       ├── cutomizing_vim
@@ -340,6 +346,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── _PAPERS
 │   │   ├── burnout
 │   │   ├── cognitive_load_theory
+│   │   ├── communication
+│   │   │   └── _ANNOTATED
 │   │   ├── feedback
 │   │   └── impostor_syndrome
 │   │       └── _ANNOTATED
@@ -354,6 +362,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── create_or_sell_an_online_course.mm
 │   ├── frelancer_show_-_303_genesis_of_a_course.mm
 │   ├── _PAPERS
+│   │   └── _ANNOTATED
 │   ├── the_science_of_accelerated_learning.mm
 │   └── ultralearning.mm
 └── writing
@@ -372,5 +381,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-140 directories, 184 files
+147 directories, 186 files
 ```
