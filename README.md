@@ -349,7 +349,11 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── communication
 │   │   │   └── _ANNOTATED
 │   │   ├── feedback
-│   │   └── impostor_syndrome
+│   │   ├── impostor_syndrome
+│   │   │   └── _ANNOTATED
+│   │   ├── soft_skills
+│   │   │   └── _ANNOTATED
+│   │   └── stress
 │   │       └── _ANNOTATED
 │   ├── psychology_of_focus.mm
 │   ├── the_willpower_instinct.mm
@@ -381,5 +385,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-147 directories, 186 files
+151 directories, 186 files
 ```
