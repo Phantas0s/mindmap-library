@@ -321,6 +321,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── introduction_to_mathematical_thinking
 │       └── introduction_to_mathematical_thinking.mm
 ├── philosophy
+│   ├── fallacies.mm
 │   └── _INFOGRAPHICS
 ├── photography
 │   ├── camera_sensors.mm
@@ -386,5 +387,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-152 directories, 186 files
+152 directories, 187 files
 ```
