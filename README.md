@@ -315,7 +315,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── okr_agile_stop_waterfall_goals
 │   │   └── okr_and_agile_stop_waterfall_goals.mm
 │   ├── patterns_of_effective_teams.mm
-│   └── studies
+│   └── _STUDIES
 ├── mathematics
 │   ├── general_mathematics.mm
 │   └── introduction_to_mathematical_thinking
@@ -332,16 +332,14 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── infographics
 │   └── productivity_not_time_management_but_attention_management.mm
 ├── public_speaking
-│   └── infographics
+│   └── _INFOGRAPHICS
 ├── self_improvement_psychology
-│   ├── a_mind_for_numbers.mm
 │   ├── beyond_burnout_how_to_work_hard_and_enjoy_life.mm
 │   ├── how_to_be_successful.mm
 │   ├── how_to_win_friend_and_influence_people.mm
 │   ├── infographics
 │   ├── just_listen_how_to_reach_anyone.mm
 │   ├── laziness_does_not_exist.mm
-│   ├── memory_unlimited.mm
 │   ├── mental_models
 │   │   └── mental_models.mm
 │   ├── _PAPERS
@@ -366,8 +364,10 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── introduction_to_system_thinking.mm
 ├── teaching_learning
 │   ├── 10_lessons_mit_education.mm
+│   ├── a_mind_for_numbers.mm
 │   ├── create_or_sell_an_online_course.mm
 │   ├── frelancer_show_-_303_genesis_of_a_course.mm
+│   ├── memory_unlimited.mm
 │   ├── _PAPERS
 │   │   └── _ANNOTATED
 │   ├── the_science_of_accelerated_learning.mm
