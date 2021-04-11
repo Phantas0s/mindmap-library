@@ -78,7 +78,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── how_to_evaluate_startup_idea.mm
 │   ├── how_to_measure_anything
 │   │   ├── how_to_measure_anything.mm
-│   │   └── Resources
+│   │   └── resources
 │   ├── how_to_pick_a_niche_start_listening_to_other_people.mm
 │   ├── human_email_automation.mm
 │   ├── if_your_innovation_effort_isnt_working_look_at_who_on_the_team.mm
