@@ -20,8 +20,8 @@ You'll find in this repository my free mindmap for The Pragmatic Programmer. You
 Using mindmaps allows me to:
 
 * Easily review any piece of knowledge I want.
-* Test myself to see if I remember the knowledge by hiding the branches.
 * Focus on some part of the knowledge I capture by hiding the branches.
+* Test myself to see if I remember the knowledge by hiding the branches.
 * Have a very visual version of the knowledge instead of trying to find the good place in a book or video.
 
 I use the open source software [Freemind](https://sourceforge.net/projects/freemind/) to create these mindmaps. Why?
@@ -34,7 +34,9 @@ I use the open source software [Freemind](https://sourceforge.net/projects/freem
 
 I have mindmaps with hundred of nodes and Freemind never let me down.
 
-[Sponsoring me on Github](https://github.com/sponsors/Phantas0s) will give you access to all my mindmaps. It's my way to thank you for supporting my work!
+## How to Access Your Mindmaps?
+
+I'll make all my mindmaps available on Github I get [more than 1000 a month via sponsors](https://github.com/sponsors/Phantas0s). I'll also send you the complete repository if you choose to sponsor me for some tiers.
 
 ## Showcase
 
