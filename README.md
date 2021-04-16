@@ -24,7 +24,9 @@ Using mindmaps allows me to:
 * Test myself to see if I remember the knowledge by hiding the branches.
 * Have a very visual version of the knowledge instead of trying to find the good place in a book or video.
 
-I use the open source software [Freemind](https://sourceforge.net/projects/freemind/) to create these mindmaps. Why?
+I use the open source software [Freemind](https://sourceforge.net/projects/freemind/) to create these mindmaps. You'll need it if you want to look at them too.
+
+Why freemind?
 
 * It's simple.
 * It's fast.
