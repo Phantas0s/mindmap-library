@@ -57,6 +57,18 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── a_software_business_five_hours_a_week.mm
 │   ├── building_new_revenue_streams.mm
 │   ├── choosing_a_speciality.mm
+│   ├── consulting
+│   │   ├── becoming_software_consultant.mm
+│   │   ├── consultancy_for_developers.mm
+│   │   ├── consulting_blueprint.mm
+│   │   ├── consulting_skills_you_need_without_the_vague_platitudes.mm
+│   │   ├── how_to_become_a_management_consultant.mm
+│   │   ├── positioning_strategy_for_the_aspiring_consultant.mm
+│   │   ├── positioning_yourself_to_coworkers_as_a_stealth_consultant.mm
+│   │   ├── the_secret_of_consulting
+│   │   │   └── the_secret_of_consulting.mm
+│   │   ├── the_why_conversation.mm
+│   │   └── web_consultant_web_developer.mm
 │   ├── creating_a_business_that_can_thrive_without_you.mm
 │   ├── ditching_hourly.mm
 │   ├── e-myth_revisited
@@ -117,6 +129,9 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── the_trusted_advisor_follow_up.mm
 │   ├── the_trusted_advisor.mm
 │   ├── the_why_conversation.mm
+│   ├── training
+│   │   ├── create_or_sell_an_online_course.mm
+│   │   └── frelancer_show_-_303_genesis_of_a_course.mm
 │   ├── tyranny_of_metrics.mm
 │   ├── what_i_learned_cofounding_dribble.mm
 │   └── work_less_get_more_done_analytics_for_maximizing_productivity.mm
@@ -247,6 +262,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── graphql_grpc_or_rest
 │   │       └── graphql_grpc_or_rest.mm
 │   ├── _PAPERS
+│   │   ├── _ANNOTATED
 │   │   ├── code_review
 │   │   ├── concurrency
 │   │   ├── inheritance
@@ -274,17 +290,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │       └── vimscript
 │           └── vimscript_the_hard_way
 │               └── I_vimscript_the_hard_way.mm
-├── consultancy
-│   ├── becoming_software_consultant.mm
-│   ├── consultancy_for_developers.mm
-│   ├── consulting_skills_you_need_without_the_vague_platitudes.mm
-│   ├── how_to_become_a_management_consultant.mm
-│   ├── positioning_strategy_for_the_aspiring_consultant.mm
-│   ├── positioning_yourself_to_coworkers_as_a_stealth_consultant.mm
-│   ├── the_secret_of_consulting
-│   │   └── the_secret_of_consulting.mm
-│   ├── the_why_conversation.mm
-│   └── web_consultant_web_developer.mm
 ├── design
 │   ├── color_theory.mm
 │   ├── _INFOGRAPHICS
@@ -373,8 +378,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 ├── teaching_learning
 │   ├── 10_lessons_mit_education.mm
 │   ├── a_mind_for_numbers.mm
-│   ├── create_or_sell_an_online_course.mm
-│   ├── frelancer_show_-_303_genesis_of_a_course.mm
 │   ├── memory_unlimited.mm
 │   ├── _PAPERS
 │   │   └── _ANNOTATED
@@ -396,5 +399,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-156 directories, 188 files
+158 directories, 189 files
 ```
