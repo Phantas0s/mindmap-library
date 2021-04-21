@@ -62,9 +62,12 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── consultancy_for_developers.mm
 │   │   ├── consulting_blueprint.mm
 │   │   ├── consulting_skills_you_need_without_the_vague_platitudes.mm
+│   │   ├── dont_pick_nich_discover_them.mm
 │   │   ├── how_to_become_a_management_consultant.mm
+│   │   ├── identify_validate_niche.mm
 │   │   ├── positioning_strategy_for_the_aspiring_consultant.mm
 │   │   ├── positioning_yourself_to_coworkers_as_a_stealth_consultant.mm
+│   │   ├── stop_posturing_to_your_peers.mm
 │   │   ├── the_secret_of_consulting
 │   │   │   └── the_secret_of_consulting.mm
 │   │   ├── the_why_conversation.mm
@@ -262,7 +265,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── graphql_grpc_or_rest
 │   │       └── graphql_grpc_or_rest.mm
 │   ├── _PAPERS
-│   │   ├── _ANNOTATED
 │   │   ├── code_review
 │   │   ├── concurrency
 │   │   ├── inheritance
@@ -270,6 +272,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── mouseless
 │   │   │   ├── _ANNOTATED
 │   │   │   └── thebluedragons
+│   │   ├── paradigms
+│   │   │   └── _ANNOTATED
 │   │   └── type
 │   │       └── abstract_data_type
 │   │           └── _ANNOTATED
@@ -399,5 +403,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-158 directories, 189 files
+159 directories, 192 files
 ```
