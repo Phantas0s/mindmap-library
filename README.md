@@ -62,6 +62,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── consultancy_for_developers.mm
 │   │   ├── consulting_blueprint.mm
 │   │   ├── consulting_skills_you_need_without_the_vague_platitudes.mm
+│   │   ├── consulting_success.mm
 │   │   ├── dont_pick_nich_discover_them.mm
 │   │   ├── how_to_become_a_management_consultant.mm
 │   │   ├── identify_validate_niche.mm
@@ -404,5 +405,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-159 directories, 193 files
+159 directories, 194 files
 ```
