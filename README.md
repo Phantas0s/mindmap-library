@@ -98,6 +98,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── how_to_brainstorm_great_project_ideas.mm
 │   ├── how_to_evaluate_your_startup_idea
 │   │   └── how_to_evaluate_startup_idea.mm
+│   ├── how_to_find_100x_valuable_customer.mm
 │   ├── how_to_measure_anything
 │   │   ├── how_to_measure_anything.mm
 │   │   └── resources
@@ -122,6 +123,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── marketing_mindset.mm
 │   ├── networking
 │   │   └── networking_for_people_who_hate_networking.mm
+│   ├── playing_long_game_entrepreneurship_sustainable.mm
 │   ├── pros_and_cons_building_saas.mm
 │   ├── quick_dirty_guide_startup_brand.mm
 │   ├── rework.mm
@@ -406,5 +408,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-159 directories, 195 files
+159 directories, 197 files
 ```
