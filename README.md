@@ -121,7 +121,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── strategic_seo_for_startups.mm
 │   │   └── what_is_lead_generation
 │   │       └── what_is_lead_generation.mm
-│   ├── marketing_selling_own_products_services.mm
+│   ├── marketing_selling_own_product_service
+│   │   └── marketing_selling_own_products_services.mm
 │   ├── networking
 │   │   └── networking_for_people_who_hate_networking.mm
 │   ├── playing_long_game_entrepreneurship_sustainable.mm
@@ -411,5 +412,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-160 directories, 199 files
+161 directories, 199 files
 ```
