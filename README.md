@@ -75,15 +75,15 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── web_consultant_web_developer.mm
 │   ├── creating_a_business_that_can_thrive_without_you.mm
 │   ├── designing_ideal_bootstrapping_business.mm
-│   ├── ditching_hourly.mm
 │   ├── e-myth_revisited
 │   │   └── e_myth_revisited.mm
 │   ├── freelancing
 │   │   ├── better_freelance_business_in_2019.mm
 │   │   ├── book_yourself_solid.mm
+│   │   ├── ditching_hourly.mm
 │   │   ├── firing_client.mm
 │   │   ├── fixed_bids_vs_hourly_hours.mm
-│   │   ├── freelance_-_wrong_question.mm
+│   │   ├── freelance_wrong-questions.mm
 │   │   ├── getting_started_with_freelancing.mm
 │   │   ├── how_to_attract_clients_without_doing_sell.mm
 │   │   ├── keeping_the_pipeline_full.mm
@@ -115,21 +115,23 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── developing_linkbait_for_a_non_technical_audience.mm
 │   │   ├── _INFOGRAPHICS
 │   │   ├── keyword_difficulty.mm
+│   │   ├── marketing_mindset.mm
 │   │   ├── perfect_about_page.mm
 │   │   ├── seo_moz.com.mm
 │   │   ├── strategic_seo_for_startups.mm
 │   │   └── what_is_lead_generation
 │   │       └── what_is_lead_generation.mm
-│   ├── marketing_mindset.mm
+│   ├── marketing_selling_own_products_services.mm
 │   ├── networking
 │   │   └── networking_for_people_who_hate_networking.mm
 │   ├── playing_long_game_entrepreneurship_sustainable.mm
 │   ├── pros_and_cons_building_saas.mm
 │   ├── quick_dirty_guide_startup_brand.mm
 │   ├── rework.mm
+│   ├── SEO
+│   │   └── the_big_book_of_getting_people_to_link_to_you.mm
 │   ├── setting_up_your_ecosystem.mm
 │   ├── _STUDIES
-│   ├── the_big_book_of_getting_people_to_link_to_you.mm
 │   ├── the_efficiencer.mm
 │   ├── theory_of_constraints
 │   │   └── theory_of_constraint_101.mm
@@ -352,7 +354,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 ├── productivity
 │   ├── action_mindmap_system
 │   ├── infographics
-│   └── productivity_not_time_management_but_attention_management.mm
+│   ├── productivity_not_time_management_but_attention_management.mm
+│   └── work_less_get_more_done_analytics_for_maximizing_productivity.mm
 ├── public_speaking
 │   └── _INFOGRAPHICS
 ├── self_improvement_psychology
@@ -408,5 +411,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-159 directories, 197 files
+160 directories, 199 files
 ```
