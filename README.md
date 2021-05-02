@@ -110,6 +110,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── if_your_innovation_effort_isnt_working_look_at_who_on_the_team.mm
 │   ├── i_hate_mvp_so_do_your_customers
 │   │   └── i_hate_mvp_so_do_your_customers.mm
+│   ├── informational_interview.mm
 │   ├── magic_the_gathering_twenty_years_twenty_lesson_learned.mm
 │   ├── marketing
 │   │   ├── 17_link_building_strategy.mm
@@ -136,6 +137,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── the_big_book_of_getting_people_to_link_to_you.mm
 │   ├── setting_up_your_ecosystem.mm
 │   ├── _STUDIES
+│   ├── test.mm
 │   ├── the_efficiencer.mm
 │   ├── theory_of_constraints
 │   │   └── theory_of_constraint_101.mm
@@ -415,5 +417,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-162 directories, 201 files
+162 directories, 203 files
 ```
