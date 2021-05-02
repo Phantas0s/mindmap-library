@@ -77,6 +77,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── web_consultant_web_developer.mm
 │   ├── creating_a_business_that_can_thrive_without_you.mm
 │   ├── designing_ideal_bootstrapping_business.mm
+│   ├── developing_your_personal_brand
+│   ├── developing_your_personal_brand.mm
 │   ├── e-myth_revisited
 │   │   └── e_myth_revisited.mm
 │   ├── freelancing
@@ -417,5 +419,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-162 directories, 203 files
+163 directories, 204 files
 ```
