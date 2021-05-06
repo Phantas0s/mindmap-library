@@ -59,6 +59,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── carreer_management_2_0
 │   │   └── career_management_2_0.mm
 │   ├── choosing_a_speciality.mm
+│   ├── conducting_stakeholder_interview_survey.mm
 │   ├── consulting
 │   │   ├── becoming_software_consultant.mm
 │   │   ├── consultancy_for_developers.mm
@@ -113,6 +114,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── i_hate_mvp_so_do_your_customers
 │   │   └── i_hate_mvp_so_do_your_customers.mm
 │   ├── informational_interview.mm
+│   ├── jason_cohen_interview.mm
 │   ├── magic_the_gathering_twenty_years_twenty_lesson_learned.mm
 │   ├── marketing
 │   │   ├── 17_link_building_strategy.mm
@@ -129,6 +131,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │       └── what_is_lead_generation.mm
 │   ├── marketing_selling_own_product_service
 │   │   └── marketing_selling_own_products_services.mm
+│   ├── nacked_business_how_honesty_makes_you_more_money.mm
 │   ├── networking
 │   │   └── networking_for_people_who_hate_networking.mm
 │   ├── playing_long_game_entrepreneurship_sustainable.mm
@@ -419,5 +422,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-163 directories, 204 files
+163 directories, 207 files
 ```
