@@ -136,6 +136,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── nacked_business_how_honesty_makes_you_more_money.mm
 │   ├── networking
 │   │   └── networking_for_people_who_hate_networking.mm
+│   ├── niching_down.mm
 │   ├── playing_long_game_entrepreneurship_sustainable.mm
 │   ├── pros_and_cons_building_saas.mm
 │   ├── quick_dirty_guide_startup_brand.mm
@@ -155,6 +156,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── create_or_sell_an_online_course.mm
 │   │   └── frelancer_show_-_303_genesis_of_a_course.mm
 │   ├── tyranny_of_metrics.mm
+│   ├── uncovering_your_big_idea.mm
 │   ├── what_i_learned_cofounding_dribble.mm
 │   ├── why_we_still_need_to_sell.mm
 │   └── work_less_get_more_done_analytics_for_maximizing_productivity.mm
@@ -424,5 +426,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-164 directories, 208 files
+164 directories, 210 files
 ```
