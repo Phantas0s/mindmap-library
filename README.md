@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-211-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-214-blue)
 
 ## What's That?
 
@@ -326,6 +326,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── freakonomics.mm
 ├── finances
 │   └── investment.mm
+├── five_ways_to_specialize.mm
 ├── _githooks
 ├── health
 │   └── _INFOGRAPHICS
@@ -351,6 +352,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── English
 │       ├── infographics
 │       └── ommiting_that.mm
+├── making_the_leap_to_consulting.mm
 ├── management
 │   ├── okr_agile_stop_waterfall_goals
 │   │   └── okr_and_agile_stop_waterfall_goals.mm
@@ -403,6 +405,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── zen_body_being.mm
 ├── system
 │   └── introduction_to_system_thinking.mm
+├── taking_risk.mm
 ├── teaching_learning
 │   ├── 10_lessons_mit_education.mm
 │   ├── a_mind_for_numbers.mm
@@ -427,5 +430,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-164 directories, 211 files
+164 directories, 214 files
 ```
