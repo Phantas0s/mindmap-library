@@ -38,7 +38,7 @@ I have mindmaps with hundred of nodes and Freemind never let me down.
 
 ## How to Access All the Mind maps?
 
-I'll make all my mindmaps available on Github if I get [more than 1000 a month via sponsors](https://github.com/sponsors/Phantas0s). I'll also send you the complete repository if you choose to sponsor me for some tiers.
+The mindmaps are a gift if you support my work via [Github sponsors](https://github.com/sponsors/Phantas0s). I'll make all of them available for free for everyone if my goal of 2000/month is reached.
 
 ## Showcase
 
