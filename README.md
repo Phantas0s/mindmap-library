@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-215-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-213-blue)
 
 ## What's That?
 
@@ -52,37 +52,25 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 ```bash
 .
 ├── business
-│   ├── 1000_true_fans.mm
-│   ├── 9_perfect_products_for_dev.mm
-│   ├── a_software_business_five_hours_a_week.mm
-│   ├── building_new_revenue_streams.mm
+│   ├── business_profit_101_freelance_developer.mm
 │   ├── carreer_management_2_0
 │   │   └── career_management_2_0.mm
-│   ├── choosing_an_unconventional_niche.mm
-│   ├── choosing_a_speciality.mm
-│   ├── conducting_stakeholder_interview_survey.mm
 │   ├── consulting
 │   │   ├── becoming_software_consultant.mm
 │   │   ├── consultancy_for_developers.mm
 │   │   ├── consulting_blueprint.mm
 │   │   ├── consulting_skills_you_need_without_the_vague_platitudes.mm
 │   │   ├── consulting_success.mm
-│   │   ├── dont_pick_nich_discover_them.mm
 │   │   ├── how_to_become_a_management_consultant.mm
-│   │   ├── identify_validate_niche.mm
 │   │   ├── positioning_strategy_for_the_aspiring_consultant.mm
 │   │   ├── positioning_yourself_to_coworkers_as_a_stealth_consultant.mm
 │   │   ├── stop_posturing_to_your_peers.mm
 │   │   ├── the_secret_of_consulting
 │   │   │   └── the_secret_of_consulting.mm
-│   │   ├── the_why_conversation.mm
 │   │   └── web_consultant_web_developer.mm
-│   ├── creating_a_business_that_can_thrive_without_you.mm
 │   ├── crossing_river_feeling_stones
 │   │   └── crossing_river_feeling_stones.mm
 │   ├── designing_ideal_bootstrapping_business.mm
-│   ├── developing_your_personal_brand
-│   ├── developing_your_personal_brand.mm
 │   ├── e-myth_revisited
 │   │   └── e_myth_revisited.mm
 │   ├── freelancing
@@ -100,23 +88,16 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── setting_your_rates.mm
 │   │   ├── starting_freelancing_as_an_employee.mm
 │   │   └── the_freelancer_primer.mm
-│   ├── from_productized_service_to_saas.mm
 │   ├── getting_real.mm
-│   ├── hack_your_career.mm
 │   ├── how_to_brainstorm_great_project_ideas.mm
-│   ├── how_to_evaluate_your_startup_idea
-│   │   └── how_to_evaluate_startup_idea.mm
 │   ├── how_to_find_100x_valuable_customer.mm
 │   ├── how_to_measure_anything
 │   │   ├── how_to_measure_anything.mm
 │   │   └── resources
-│   ├── how_to_pick_a_niche_start_listening_to_other_people.mm
 │   ├── how_to_speak_to_business_leader.mm
-│   ├── human_email_automation.mm
 │   ├── if_your_innovation_effort_isnt_working_look_at_who_on_the_team.mm
 │   ├── i_hate_mvp_so_do_your_customers
 │   │   └── i_hate_mvp_so_do_your_customers.mm
-│   ├── informational_interview.mm
 │   ├── jason_cohen_interview.mm
 │   ├── magic_the_gathering_twenty_years_twenty_lesson_learned.mm
 │   ├── marketing
@@ -124,29 +105,57 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── 5_ways_you_can_make_money_with_your_personnal_brand.mm
 │   │   ├── content_marketing_strategies.mm
 │   │   ├── developing_linkbait_for_a_non_technical_audience.mm
+│   │   ├── human_email_automation.mm
 │   │   ├── _INFOGRAPHICS
 │   │   ├── keyword_difficulty.mm
 │   │   ├── marketing_mindset.mm
+│   │   ├── marketing_selling_own_product_service
 │   │   ├── perfect_about_page.mm
+│   │   ├── SEO
+│   │   │   └── the_big_book_of_getting_people_to_link_to_you.mm
 │   │   ├── seo_moz.com.mm
 │   │   ├── strategic_seo_for_startups.mm
 │   │   └── what_is_lead_generation
 │   │       └── what_is_lead_generation.mm
-│   ├── marketing_selling_own_product_service
-│   │   └── marketing_selling_own_products_services.mm
+│   ├── metrics
+│   │   ├── tyranny_of_metrics.mm
+│   │   └── work_less_get_more_done_analytics_for_maximizing_productivity.mm
 │   ├── nacked_business_how_honesty_makes_you_more_money.mm
 │   ├── networking
+│   │   ├── informational_interview.mm
 │   │   └── networking_for_people_who_hate_networking.mm
-│   ├── niching_down.mm
-│   ├── playing_long_game_entrepreneurship_sustainable.mm
-│   ├── pros_and_cons_building_saas.mm
-│   ├── quick_dirty_guide_startup_brand.mm
+│   ├── niche
+│   │   ├── choosing_an_unconventional_niche.mm
+│   │   ├── choosing_a_speciality.mm
+│   │   ├── dont_pick_nich_discover_them.mm
+│   │   ├── how_to_pick_a_niche_start_listening_to_other_people.mm
+│   │   ├── market_research_call_identify_validate_niche.mm
+│   │   └── niching_down.mm
+│   ├── personal_brand
+│   │   └── developing_your_personal_brand
+│   │       └── developing_your_personal_brand.mm
+│   ├── psychology
+│   │   └── playing_long_game_entrepreneurship_sustainable.mm
+│   ├── revenue_streams
+│   │   ├── 1000_true_fans.mm
+│   │   ├── 9_perfect_products_for_dev.mm
+│   │   ├── building_new_revenue_streams.mm
+│   │   └── hack_your_career.mm
 │   ├── rework.mm
-│   ├── SEO
-│   │   └── the_big_book_of_getting_people_to_link_to_you.mm
+│   ├── saas_startup
+│   │   ├── a_software_business_five_hours_a_week.mm
+│   │   ├── creating_a_business_that_can_thrive_without_you.mm
+│   │   ├── from_productized_service_to_saas.mm
+│   │   ├── how_to_evaluate_your_startup_idea
+│   │   │   └── how_to_evaluate_startup_idea.mm
+│   │   ├── pros_and_cons_building_saas.mm
+│   │   └── quick_dirty_guide_startup_brand.mm
+│   ├── sales
+│   │   └── why_we_still_need_to_sell.mm
 │   ├── setting_up_your_ecosystem.mm
 │   ├── _STUDIES
-│   ├── test.mm
+│   ├── survey
+│   │   └── conducting_stakeholder_interview_survey.mm
 │   ├── the_efficiencer.mm
 │   ├── theory_of_constraints
 │   │   └── theory_of_constraint_101.mm
@@ -156,11 +165,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── training
 │   │   ├── create_or_sell_an_online_course.mm
 │   │   └── frelancer_show_-_303_genesis_of_a_course.mm
-│   ├── tyranny_of_metrics.mm
 │   ├── uncovering_your_big_idea.mm
-│   ├── what_i_learned_cofounding_dribble.mm
-│   ├── why_we_still_need_to_sell.mm
-│   └── work_less_get_more_done_analytics_for_maximizing_productivity.mm
+│   └── what_i_learned_cofounding_dribble.mm
 ├── computing
 │   ├── api
 │   │   ├── how_to_design_good_api.mm
@@ -431,5 +437,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-164 directories, 215 files
+172 directories, 213 files
 ```
