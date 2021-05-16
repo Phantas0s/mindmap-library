@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-213-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-214-blue)
 
 ## What's That?
 
@@ -169,10 +169,13 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── what_i_learned_cofounding_dribble.mm
 ├── computing
 │   ├── api
+│   │   ├── graphql_grpc_or_rest
+│   │   │   └── graphql_grpc_or_rest.mm
 │   │   ├── how_to_design_good_api.mm
-│   │   └── REST
-│   │       ├── annotated
-│   │       └── rest.mm
+│   │   ├── REST
+│   │   │   ├── _ANNOTATED
+│   │   │   └── rest.mm
+│   │   └── rest_vs_rpc.mm
 │   ├── computer_science
 │   │   ├── 00_introduction
 │   │   │   └── uc_berkeley_cs10_2010
@@ -291,8 +294,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── unicode_character_set
 │   │       └── unicode_character_set.mm
 │   ├── network
-│   │   └── graphql_grpc_or_rest
-│   │       └── graphql_grpc_or_rest.mm
 │   ├── _PAPERS
 │   │   ├── code_review
 │   │   ├── concurrency
@@ -437,5 +438,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-172 directories, 213 files
+172 directories, 214 files
 ```
