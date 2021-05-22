@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-215-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-216-blue)
 
 ## What's That?
 
@@ -56,6 +56,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── carreer_management_2_0
 │   │   └── career_management_2_0.mm
 │   ├── consulting
+│   │   ├── anti_pattern_laboring_strategist.mm
 │   │   ├── becoming_software_consultant.mm
 │   │   ├── consultancy_for_developers.mm
 │   │   ├── consulting_blueprint.mm
@@ -439,5 +440,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-172 directories, 215 files
+172 directories, 216 files
 ```
