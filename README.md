@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-217-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-218-blue)
 
 ## What's That?
 
@@ -138,6 +138,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── personal_brand
 │   │   └── developing_your_personal_brand
 │   │       └── developing_your_personal_brand.mm
+│   ├── positioning_for_soloists.mm
 │   ├── psychology
 │   │   └── playing_long_game_entrepreneurship_sustainable.mm
 │   ├── revenue_streams
@@ -180,6 +181,11 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   │   ├── _ANNOTATED
 │   │   │   └── rest.mm
 │   │   └── rest_vs_rpc.mm
+│   ├── architecture
+│   │   ├── ddd_quickly
+│   │   │   └── ddd.mm
+│   │   ├── design_composition_performance.mm
+│   │   └── the_most_important_design_guideline.mm
 │   ├── computer_science
 │   │   ├── 00_introduction
 │   │   │   └── uc_berkeley_cs10_2010
@@ -216,11 +222,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── _INFOGRAPHICS
 │   ├── data_science
 │   │   └── data_warehouse.mm
-│   ├── design
-│   │   ├── ddd_quickly
-│   │   │   └── ddd.mm
-│   │   ├── design_composition_performance.mm
-│   │   └── the_most_important_design_guideline.mm
 │   ├── devops
 │   │   ├── 9_metrics_that_can_make_a_difference.mm
 │   │   ├── accelerate
@@ -442,5 +443,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-173 directories, 217 files
+173 directories, 218 files
 ```
