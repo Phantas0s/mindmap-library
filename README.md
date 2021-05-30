@@ -185,6 +185,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── ddd_quickly
 │   │   │   └── ddd.mm
 │   │   ├── design_composition_performance.mm
+│   │   ├── implementing_domain_driven_design
+│   │   │   └── implementing_domain_driven_design.mm
 │   │   └── the_most_important_design_guideline.mm
 │   ├── computer_science
 │   │   ├── 00_introduction
@@ -346,7 +348,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── epic_guide_bootstrapping_startup_by_yourself.mm
 │   ├── how_developers_can_make_money_with_open_source_projects.mm
 │   ├── implementing_domain_driven_design
-│   │   └── implementing_domain_driven_design.mm
 │   ├── introduction_to_computer_networking
 │   │   └── introduction_to_computer_networking.mm
 │   ├── magic_trick_of_testing.mm
@@ -443,5 +444,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-173 directories, 218 files
+174 directories, 218 files
 ```
