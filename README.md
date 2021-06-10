@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-219-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-221-blue)
 
 ## What's That?
 
@@ -55,6 +55,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── business_profit_101_freelance_developer.mm
 │   ├── carreer_management_2_0
 │   │   └── career_management_2_0.mm
+│   ├── choosing_consulting_project_give_energy.mm
 │   ├── consulting
 │   │   ├── anti_pattern_laboring_strategist.mm
 │   │   ├── becoming_software_consultant.mm
@@ -91,6 +92,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── setting_your_rates.mm
 │   │   ├── starting_freelancing_as_an_employee.mm
 │   │   └── the_freelancer_primer.mm
+│   ├── getting_best_answers.mm
 │   ├── getting_real.mm
 │   ├── how_find_business_ideas_customer_want.mm
 │   ├── how_to_brainstorm_great_project_ideas.mm
@@ -303,6 +305,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │       └── unicode_character_set.mm
 │   ├── network
 │   ├── _PAPERS
+│   │   ├── _ANNOTATED
 │   │   ├── code_review
 │   │   ├── concurrency
 │   │   ├── inheritance
@@ -445,5 +448,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-174 directories, 219 files
+175 directories, 221 files
 ```
