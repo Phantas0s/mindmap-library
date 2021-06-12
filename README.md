@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-221-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-220-blue)
 
 ## What's That?
 
@@ -273,8 +273,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │       ├── marco_pivetta_doctrine_orm_good_practices_and_tricks.mm
 │   │       └── symfony_con_2016
 │   ├── misc
-│   │   ├── achieving_technical_excellence_in_your_software_teams
-│   │   │   └── achieving_technical_excellence_in_your_software_teams.mm
 │   │   ├── being_good_is_overrated.mm
 │   │   ├── building_highly_reliable_websites_for_small_companies.mm
 │   │   ├── dan_ingalls_oop.mm
@@ -448,5 +446,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-175 directories, 221 files
+174 directories, 220 files
 ```
