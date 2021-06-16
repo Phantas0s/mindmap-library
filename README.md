@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-222-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-226-blue)
 
 ## What's That?
 
@@ -52,6 +52,9 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 ```bash
 .
 ├── business
+│   ├── business_authority_ask_us_anything_2.mm
+│   ├── business_authority_ask_us_anything_3.mm
+│   ├── business_authority_ask_us_anything.mm
 │   ├── business_profit_101_freelance_developer.mm
 │   ├── carreer_management_2_0
 │   │   └── career_management_2_0.mm
@@ -192,6 +195,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── design_composition_performance.mm
 │   │   ├── implementing_domain_driven_design
 │   │   │   └── implementing_domain_driven_design.mm
+│   │   ├── strategic_design_evans.mm
 │   │   └── the_most_important_design_guideline.mm
 │   ├── computer_science
 │   │   ├── 00_introduction
@@ -448,5 +452,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-174 directories, 222 files
+174 directories, 226 files
 ```
