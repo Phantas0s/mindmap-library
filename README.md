@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-226-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-229-blue)
 
 ## What's That?
 
@@ -67,6 +67,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── consulting_blueprint.mm
 │   │   ├── consulting_skills_you_need_without_the_vague_platitudes.mm
 │   │   ├── consulting_success.mm
+│   │   ├── escaping_execution.mm
 │   │   ├── how_to_become_a_management_consultant.mm
 │   │   ├── how_to_start_consultancy_business
 │   │   │   └── how_to_start_consultancy_business.mm
@@ -75,7 +76,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── stop_posturing_to_your_peers.mm
 │   │   ├── the_secret_of_consulting
 │   │   │   └── the_secret_of_consulting.mm
-│   │   └── web_consultant_web_developer.mm
+│   │   ├── web_consultant_web_developer.mm
+│   │   └── when_to_systematize.mm
 │   ├── crossing_river_feeling_stones
 │   │   └── crossing_river_feeling_stones.mm
 │   ├── dealing_with_chaos.mm
@@ -398,6 +400,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 ├── public_speaking
 │   └── _INFOGRAPHICS
 ├── self_improvement_psychology
+│   ├── 3_tactics_against_procrastination.mm
 │   ├── beyond_burnout_how_to_work_hard_and_enjoy_life.mm
 │   ├── how_to_be_successful.mm
 │   ├── how_to_win_friend_and_influence_people.mm
@@ -452,5 +455,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-174 directories, 226 files
+174 directories, 229 files
 ```
