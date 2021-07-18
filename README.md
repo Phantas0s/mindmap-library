@@ -432,7 +432,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── zen_body_being.mm
 ├── signs_your_message_is_not_working.mm
 ├── system
-│   └── introduction_to_system_thinking.mm
+│   └── introduction_to_system_thinking
+│       └── introduction_to_system_thinking.mm
 ├── taking_risk.mm
 ├── teaching_learning
 │   ├── 10_lessons_mit_education.mm
@@ -458,5 +459,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-175 directories, 231 files
+176 directories, 231 files
 ```
