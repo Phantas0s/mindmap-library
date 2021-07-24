@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-231-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-232-blue)
 
 ## What's That?
 
@@ -242,6 +242,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── 9_metrics_that_can_make_a_difference.mm
 │   │   ├── accelerate
 │   │   │   └── accelerate.mm
+│   │   ├── kubernetes_docker_guru
+│   │   │   └── kubernetes_docker_guru.mm
 │   │   └── _STUDIES
 │   ├── distributed_systems
 │   ├── game
@@ -459,5 +461,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-176 directories, 231 files
+177 directories, 232 files
 ```
