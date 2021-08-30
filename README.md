@@ -187,7 +187,9 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 ├── computing
 │   ├── analysis
 │   │   ├── _PAPERS
-│   │   │   └── _ANNOTATED
+│   │   │   ├── _ANNOTATED
+│   │   │   └── _PAPERS
+│   │   │       └── _ANNOTATED
 │   │   ├── software_design_x_ray
 │   │   │   └── software_design_x_ray.mm
 │   │   └── your_code_as_a_crime_scene
@@ -300,9 +302,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── php
 │   │       ├── marco_pivetta_doctrine_orm_good_practices_and_tricks.mm
 │   │       └── symfony_con_2016
-│   ├── legacy
-│   │   └── _PAPERS
-│   │       └── _ANNOTATED
 │   ├── misc
 │   │   ├── being_good_is_overrated.mm
 │   │   ├── building_highly_reliable_websites_for_small_companies.mm
@@ -479,5 +478,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-190 directories, 237 files
+189 directories, 237 files
 ```
