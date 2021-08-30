@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-235-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-237-blue)
 
 ## What's That?
 
@@ -124,6 +124,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── keyword_difficulty.mm
 │   │   ├── marketing_mindset.mm
 │   │   ├── marketing_selling_own_product_service
+│   │   │   └── marketing_selling_own_product_service.mm
 │   │   ├── perfect_about_page.mm
 │   │   ├── SEO
 │   │   │   └── the_big_book_of_getting_people_to_link_to_you.mm
@@ -185,9 +186,12 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── what_i_learned_cofounding_dribble.mm
 ├── computing
 │   ├── analysis
-│   │   ├── your_code_as_a_crime_scene
-│   │   │   └── your_code_as_a_crime_scene.mm
-│   │   └── your_code_as_a_crime_scene.mm
+│   │   ├── _PAPERS
+│   │   │   └── _ANNOTATED
+│   │   ├── software_design_x_ray
+│   │   │   └── software_design_x_ray.mm
+│   │   └── your_code_as_a_crime_scene
+│   │       └── your_code_as_a_crime_scene.mm
 │   ├── api
 │   │   ├── graphql_grpc_or_rest
 │   │   │   └── graphql_grpc_or_rest.mm
@@ -202,6 +206,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── design_composition_performance.mm
 │   │   ├── implementing_domain_driven_design
 │   │   │   └── implementing_domain_driven_design.mm
+│   │   ├── _PAPERS
+│   │   │   └── _ANNOTATED
 │   │   ├── strategic_design_evans.mm
 │   │   └── the_most_important_design_guideline.mm
 │   ├── computer_science
@@ -255,6 +261,9 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── game
 │   │   └── webgl_fundamentals
 │   │       └── webgl_fundamentals.mm
+│   ├── git
+│   │   └── pro_git
+│   │       └── pro_git.mm
 │   ├── hardware
 │   ├── _INFOGRAPHICS
 │   │   └── vim
@@ -291,6 +300,9 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── php
 │   │       ├── marco_pivetta_doctrine_orm_good_practices_and_tricks.mm
 │   │       └── symfony_con_2016
+│   ├── legacy
+│   │   └── _PAPERS
+│   │       └── _ANNOTATED
 │   ├── misc
 │   │   ├── being_good_is_overrated.mm
 │   │   ├── building_highly_reliable_websites_for_small_companies.mm
@@ -337,6 +349,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │           └── _ANNOTATED
 │   ├── shell
 │   │   ├── better_bashing_through_technology.mm
+│   │   ├── cli_design_best_practice.mm
 │   │   ├── refactoring_in_bash_functions.mm
 │   │   ├── the_awk_programming_language.mm
 │   │   └── zsh.mm
@@ -374,9 +387,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── magic_trick_of_testing.mm
 │   ├── my_blog_if_i_build_it_will_they_come.mm
 │   ├── regular_expression_cookbook.mm
-│   ├── the_element_of_style
-│   │   └── the_element_of_style.mm
-│   └── unicode_character_set.mm
+│   └── the_element_of_style
+│       └── the_element_of_style.mm
 ├── languages
 │   ├── Deutsch
 │   │   ├── dfe.mm
@@ -467,5 +479,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-180 directories, 235 files
+190 directories, 237 files
 ```
