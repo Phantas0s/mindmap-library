@@ -71,6 +71,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── how_to_become_a_management_consultant.mm
 │   │   ├── how_to_start_consultancy_business
 │   │   │   └── how_to_start_consultancy_business.mm
+│   │   ├── making_the_leap_to_consulting.mm
 │   │   ├── positioning_strategy_for_the_aspiring_consultant.mm
 │   │   ├── positioning_yourself_to_coworkers_as_a_stealth_consultant.mm
 │   │   ├── stop_posturing_to_your_peers.mm
@@ -85,6 +86,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── designing_ideal_bootstrapping_business.mm
 │   ├── e-myth_revisited
 │   │   └── e_myth_revisited.mm
+│   ├── five_ways_to_specialize.mm
 │   ├── freelancing
 │   │   ├── better_freelance_business_in_2019.mm
 │   │   ├── book_yourself_solid.mm
@@ -169,9 +171,11 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── sales
 │   │   └── why_we_still_need_to_sell.mm
 │   ├── setting_up_your_ecosystem.mm
+│   ├── signs_your_message_is_not_working.mm
 │   ├── _STUDIES
 │   ├── survey
 │   │   └── conducting_stakeholder_interview_survey.mm
+│   ├── taking_risk.mm
 │   ├── the_efficiencer.mm
 │   ├── theory_of_constraints
 │   │   └── theory_of_constraint_101.mm
@@ -187,9 +191,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 ├── computing
 │   ├── analysis
 │   │   ├── _PAPERS
-│   │   │   ├── _ANNOTATED
-│   │   │   └── _PAPERS
-│   │   │       └── _ANNOTATED
+│   │   │   └── _ANNOTATED
 │   │   ├── software_design_x_ray
 │   │   │   └── software_design_x_ray.mm
 │   │   └── your_code_as_a_crime_scene
@@ -373,7 +375,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── freakonomics.mm
 ├── finances
 │   └── investment.mm
-├── five_ways_to_specialize.mm
 ├── _githooks
 ├── health
 │   └── _INFOGRAPHICS
@@ -397,7 +398,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── English
 │       ├── infographics
 │       └── ommiting_that.mm
-├── making_the_leap_to_consulting.mm
 ├── management
 │   ├── okr_agile_stop_waterfall_goals
 │   │   └── okr_and_agile_stop_waterfall_goals.mm
@@ -449,11 +449,9 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── the_willpower_instinct.mm
 │   ├── we_are_all_confident_idiots.mm
 │   └── zen_body_being.mm
-├── signs_your_message_is_not_working.mm
 ├── system
 │   └── introduction_to_system_thinking
 │       └── introduction_to_system_thinking.mm
-├── taking_risk.mm
 ├── teaching_learning
 │   ├── 10_lessons_mit_education.mm
 │   ├── a_mind_for_numbers.mm
@@ -478,5 +476,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-189 directories, 237 files
+187 directories, 237 files
 ```
