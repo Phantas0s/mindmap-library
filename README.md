@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-237-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-238-blue)
 
 ## What's That?
 
@@ -455,6 +455,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 ├── teaching_learning
 │   ├── 10_lessons_mit_education.mm
 │   ├── a_mind_for_numbers.mm
+│   ├── how_to_speak.mm
 │   ├── memory_unlimited.mm
 │   ├── _PAPERS
 │   │   └── _ANNOTATED
@@ -476,5 +477,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-187 directories, 237 files
+187 directories, 238 files
 ```
