@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-239-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-240-blue)
 
 ## What's That?
 
@@ -426,6 +426,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 ├── self_improvement_psychology
 │   ├── 3_tactics_against_procrastination.mm
 │   ├── beyond_burnout_how_to_work_hard_and_enjoy_life.mm
+│   ├── emotional_intelligence
+│   │   └── emotional_intelligence.mm
 │   ├── how_to_be_successful.mm
 │   ├── how_to_win_friend_and_influence_people.mm
 │   ├── infographics
@@ -479,5 +481,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-188 directories, 239 files
+189 directories, 240 files
 ```
