@@ -193,8 +193,10 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── analysis
 │   │   ├── _PAPERS
 │   │   │   ├── _ANNOTATED
-│   │   │   └── _MINDMAPS
-│   │   │       └── 2019_software_productivity_loss_due_technical_debt.mm
+│   │   │   ├── _MINDMAPS
+│   │   │   │   └── 2019_software_productivity_loss_due_technical_debt.mm
+│   │   │   └── technical_debt
+│   │   │       └── _ANNOTATED
 │   │   ├── software_design_x_ray
 │   │   │   └── software_design_x_ray.mm
 │   │   └── your_code_as_a_crime_scene
@@ -478,5 +480,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-188 directories, 238 files
+190 directories, 238 files
 ```
