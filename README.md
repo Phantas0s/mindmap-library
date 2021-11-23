@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-237-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-238-blue)
 
 ## What's That?
 
@@ -208,6 +208,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   │   └── rest.mm
 │   │   └── rest_vs_rpc.mm
 │   ├── architecture
+│   │   ├── building_evolutionary_architecture
+│   │   │   └── building_evolutionary_architecture.mm
 │   │   ├── ddd_quickly
 │   │   │   └── ddd.mm
 │   │   ├── design_composition_performance.mm
@@ -476,5 +478,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-187 directories, 237 files
+188 directories, 238 files
 ```
