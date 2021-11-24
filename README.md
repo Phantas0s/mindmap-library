@@ -193,10 +193,10 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── analysis
 │   │   ├── _PAPERS
 │   │   │   ├── _ANNOTATED
-│   │   │   ├── _MINDMAPS
-│   │   │   │   └── 2019_software_productivity_loss_due_technical_debt.mm
 │   │   │   └── technical_debt
-│   │   │       └── _ANNOTATED
+│   │   │       ├── _ANNOTATED
+│   │   │       └── _MINDMAPS
+│   │   │           └── 2019_software_productivity_loss_due_technical_debt.mm
 │   │   ├── software_design_x_ray
 │   │   │   └── software_design_x_ray.mm
 │   │   └── your_code_as_a_crime_scene
