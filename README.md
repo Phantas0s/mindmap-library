@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-239-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-240-blue)
 
 ## What's That?
 
@@ -373,6 +373,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── vim
 │       ├── cutomizing_vim
 │       │   └── customizing_vim.mm
+│       ├── nvim_lua_guide.mm
 │       ├── practical_vim.mm
 │       ├── user_manual.mm
 │       └── vimscript
@@ -482,5 +483,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-191 directories, 239 files
+191 directories, 240 files
 ```
