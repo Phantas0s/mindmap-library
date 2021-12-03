@@ -193,6 +193,10 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── analysis
 │   │   ├── _PAPERS
 │   │   │   ├── _ANNOTATED
+│   │   │   ├── emotions
+│   │   │   │   └── _ANNOTATED
+│   │   │   ├── social
+│   │   │   │   └── _ANNOTATED
 │   │   │   └── technical_debt
 │   │   │       ├── _ANNOTATED
 │   │   │       └── _MINDMAPS
@@ -268,8 +272,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   │   └── accelerate.mm
 │   │   ├── kubernetes_basics
 │   │   │   └── official_kubernetes_tutorial.mm
-│   │   ├── kubernetes_docker_guru
-│   │   │   └── kubernetes_docker_guru.mm
 │   │   ├── stress_free_game_development_with_devops
 │   │   │   └── stress_free_game_development_with_devops.mm
 │   │   └── _STUDIES
@@ -456,6 +458,9 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── the_willpower_instinct.mm
 │   ├── we_are_all_confident_idiots.mm
 │   └── zen_body_being.mm
+├── statistics
+│   └── head_first_statistics
+│       └── head_first_statistics.mm
 ├── system
 │   └── introduction_to_system_thinking
 │       └── introduction_to_system_thinking.mm
@@ -484,5 +489,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-191 directories, 241 files
+196 directories, 241 files
 ```
