@@ -197,6 +197,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   │   ├── change
 │   │   │   │   └── _ANNOTATED
 │   │   │   ├── cognition
+│   │   │   │   └── _ANNOTATED
+│   │   │   ├── requirements
 │   │   │   ├── sentiments
 │   │   │   │   └── _ANNOTATED
 │   │   │   ├── social
@@ -209,6 +211,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   │   │       └── 2021_overview_comparison_technical_debt_measurement_tool
 │   │   │   │           └── 2021_overview_comparison_technical_debt_measurement_tool.mm
 │   │   │   └── tools
+│   │   │       └── _ANNOTATED
 │   │   ├── software_design_x_ray
 │   │   │   └── software_design_x_ray.mm
 │   │   └── your_code_as_a_crime_scene
@@ -494,5 +497,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-201 directories, 241 files
+204 directories, 241 files
 ```
