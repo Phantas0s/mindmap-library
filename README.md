@@ -198,6 +198,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   │   │   └── _ANNOTATED
 │   │   │   ├── cognition
 │   │   │   │   └── _ANNOTATED
+│   │   │   ├── readibility
 │   │   │   ├── requirements
 │   │   │   ├── sentiments
 │   │   │   │   └── _ANNOTATED
@@ -497,5 +498,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-204 directories, 241 files
+205 directories, 241 files
 ```
