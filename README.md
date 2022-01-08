@@ -191,28 +191,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── what_i_learned_cofounding_dribble.mm
 ├── computing
 │   ├── analysis
-│   │   ├── _PAPERS
-│   │   │   ├── aging_decay
-│   │   │   ├── _ANNOTATED
-│   │   │   ├── change
-│   │   │   │   └── _ANNOTATED
-│   │   │   ├── cognition
-│   │   │   │   └── _ANNOTATED
-│   │   │   ├── readibility
-│   │   │   ├── requirements
-│   │   │   ├── sentiments
-│   │   │   │   └── _ANNOTATED
-│   │   │   ├── social
-│   │   │   │   └── _ANNOTATED
-│   │   │   ├── technical_debt
-│   │   │   │   ├── _ANNOTATED
-│   │   │   │   └── _MINDMAPS
-│   │   │   │       ├── 2019_examination_tools_managing_different_dimensions_technical_debt.mm
-│   │   │   │       ├── 2019_software_productivity_loss_due_technical_debt.mm
-│   │   │   │       └── 2021_overview_comparison_technical_debt_measurement_tool
-│   │   │   │           └── 2021_overview_comparison_technical_debt_measurement_tool.mm
-│   │   │   └── tools
-│   │   │       └── _ANNOTATED
 │   │   ├── software_design_x_ray
 │   │   │   └── software_design_x_ray.mm
 │   │   └── your_code_as_a_crime_scene
@@ -360,9 +338,32 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   ├── _PAPERS
 │   │   ├── _ANNOTATED
 │   │   ├── code_review
+│   │   ├── communication
 │   │   ├── concurrency
 │   │   ├── inheritance
 │   │   │   └── _ANNOTED
+│   │   ├── measuring_complexity
+│   │   │   ├── aging_decay
+│   │   │   ├── _ANNOTATED
+│   │   │   ├── change
+│   │   │   │   └── _ANNOTATED
+│   │   │   ├── cognition
+│   │   │   │   └── _ANNOTATED
+│   │   │   ├── readibility
+│   │   │   ├── requirements
+│   │   │   ├── sentiments
+│   │   │   │   └── _ANNOTATED
+│   │   │   ├── social
+│   │   │   │   └── _ANNOTATED
+│   │   │   ├── technical_debt
+│   │   │   │   ├── _ANNOTATED
+│   │   │   │   └── _MINDMAPS
+│   │   │   │       ├── 2019_examination_tools_managing_different_dimensions_technical_debt.mm
+│   │   │   │       ├── 2019_software_productivity_loss_due_technical_debt.mm
+│   │   │   │       └── 2021_overview_comparison_technical_debt_measurement_tool
+│   │   │   │           └── 2021_overview_comparison_technical_debt_measurement_tool.mm
+│   │   │   └── tools
+│   │   │       └── _ANNOTATED
 │   │   ├── mouseless
 │   │   │   ├── _ANNOTATED
 │   │   │   └── thebluedragons
@@ -499,5 +500,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-205 directories, 242 files
+206 directories, 242 files
 ```
