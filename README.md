@@ -341,6 +341,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── communication
 │   │   ├── concurrency
 │   │   ├── dev_tools
+│   │   ├── hardware
 │   │   ├── inheritance
 │   │   │   └── _ANNOTED
 │   │   ├── measuring_complexity
@@ -370,6 +371,9 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   │   └── thebluedragons
 │   │   ├── paradigms
 │   │   │   └── _ANNOTATED
+│   │   ├── soft_skills
+│   │   │   └── _ANNOTATED
+│   │   ├── testing
 │   │   └── type
 │   │       └── abstract_data_type
 │   │           └── _ANNOTATED
@@ -381,8 +385,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── zsh.mm
 │   ├── _SLIDES
 │   ├── soft_skills
-│   │   └── _PAPERS
-│   │       └── _ANNOTATED
 │   ├── technical_interviewing_you_doing_it_wrong.mm
 │   └── vim
 │       ├── cutomizing_vim
@@ -501,5 +503,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-207 directories, 242 files
+209 directories, 242 files
 ```
