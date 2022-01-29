@@ -2,7 +2,7 @@
 
 ![Alexandria Library illustration](./library-of-alexandria.jpg)
 
-![count mindmaps](https://img.shields.io/badge/total_mindmaps-242-blue)
+![count mindmaps](https://img.shields.io/badge/total_mindmaps-241-blue)
 
 ## What's That?
 
@@ -135,8 +135,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── what_is_lead_generation
 │   │       └── what_is_lead_generation.mm
 │   ├── metrics
-│   │   ├── tyranny_of_metrics.mm
-│   │   └── work_less_get_more_done_analytics_for_maximizing_productivity.mm
+│   │   └── tyranny_of_metrics.mm
 │   ├── nacked_business_how_honesty_makes_you_more_money.mm
 │   ├── networking
 │   │   ├── informational_interview.mm
@@ -381,6 +380,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── better_bashing_through_technology.mm
 │   │   ├── cli_design_best_practice.mm
 │   │   ├── refactoring_in_bash_functions.mm
+│   │   ├── terminal_io
 │   │   ├── the_awk_programming_language.mm
 │   │   └── zsh.mm
 │   ├── _SLIDES
@@ -422,8 +422,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 ├── management
 │   ├── okr_agile_stop_waterfall_goals
 │   │   └── okr_and_agile_stop_waterfall_goals.mm
-│   ├── patterns_of_effective_teams.mm
-│   └── _STUDIES
+│   ├── _PAPERS
+│   └── patterns_of_effective_teams.mm
 ├── mathematics
 │   ├── general_mathematics.mm
 │   └── introduction_to_mathematical_thinking
@@ -449,7 +449,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   └── emotional_intelligence.mm
 │   ├── how_to_be_successful.mm
 │   ├── how_to_win_friend_and_influence_people.mm
-│   ├── infographics
+│   ├── _INFOGRAPHICS
 │   ├── just_listen_how_to_reach_anyone.mm
 │   ├── laziness_does_not_exist.mm
 │   ├── mental_models
@@ -503,5 +503,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-209 directories, 242 files
+210 directories, 241 files
 ```
