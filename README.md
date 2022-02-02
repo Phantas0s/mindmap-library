@@ -288,8 +288,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   │   ├── delve_talk_-_go_internal.mm
 │   │   │   ├── design_command_line_tool_people_love
 │   │   │   │   └── design_command_line_tool_people_love.mm
-│   │   │   ├── design_philosophie
-│   │   │   │   └── design_philosophie.mm
+│   │   │   ├── design_philosophy
+│   │   │   │   └── design_philosophy.mm
 │   │   │   ├── go_beautiful_package.mm
 │   │   │   ├── go_in_action.mm
 │   │   │   ├── go_scheduler
@@ -301,6 +301,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   │   └── static_analysis_in_go.mm
 │   │   ├── lisp
 │   │   │   └── recursive_mc_carthy.mm
+│   │   ├── lua
 │   │   └── php
 │   │       ├── marco_pivetta_doctrine_orm_good_practices_and_tricks.mm
 │   │       └── symfony_con_2016
@@ -370,6 +371,8 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   │   └── thebluedragons
 │   │   ├── paradigms
 │   │   │   └── _ANNOTATED
+│   │   ├── programming_languages
+│   │   │   └── lua
 │   │   ├── soft_skills
 │   │   │   └── _ANNOTATED
 │   │   ├── testing
@@ -384,7 +387,6 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   │   ├── the_awk_programming_language.mm
 │   │   └── zsh.mm
 │   ├── _SLIDES
-│   ├── soft_skills
 │   ├── technical_interviewing_you_doing_it_wrong.mm
 │   └── vim
 │       ├── cutomizing_vim
@@ -437,7 +439,7 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
 │   └── photography_business_elia_locardi.mm
 ├── productivity
 │   ├── action_mindmap_system
-│   ├── infographics
+│   ├── _INFOGRAPHICS
 │   ├── productivity_not_time_management_but_attention_management.mm
 │   └── work_less_get_more_done_analytics_for_maximizing_productivity.mm
 ├── public_speaking
@@ -503,5 +505,5 @@ Here's the list of mindmaps (files with the extension ".mm") using `tree -P *.mm
     ├── write_to_express_not_to_impress.mm
     └── writing_is_thinking_learning_to_write_with_confidence.mm
 
-210 directories, 241 files
+212 directories, 241 files
 ```
